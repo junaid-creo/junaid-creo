@@ -1,6 +1,6 @@
-### Hi, I'm Junaid 👋
+### Hi, I'm Junaid AJ 👋
 
-I'm a web developer at [Creo Global](https://github.com/Creo-Global). I work on accessible, standards-based front ends. Most of my open-source work is fixing accessibility and web-platform bugs in documentation and demos that other developers copy from.
+I'm a senior UI/UX developer at [Creo Global](https://github.com/Creo-Global) in Dubai. Since 2017 I've turned ambitious designs into fast, polished websites built on clean code and a modern stack. Most of my open-source work is fixing accessibility and web-platform bugs in documentation and demos that other developers copy from.
 
 **What I work on**
 - Accessibility: WCAG audits, keyboard support, labelling and contrast
